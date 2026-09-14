@@ -4,3 +4,6 @@ welcome to student portal
 login feature
 student can login on the portal 
 using their university credentials
+.........
+profile feature 
+student can view their profile
