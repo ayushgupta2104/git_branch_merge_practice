@@ -1,5 +1,5 @@
 student portal
-welcome to student portal
+welcome to university student portal
 .........
 login feature
 student can login on the portal 
