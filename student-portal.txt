@@ -9,3 +9,6 @@ using their university credentials
 .........
 profile feature 
 student can view their profile
+...........
+Contact Feature
+Students can contact the administration.
