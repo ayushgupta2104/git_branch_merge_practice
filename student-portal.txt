@@ -1,5 +1,7 @@
 student portal
 welcome to university student portal
+welcome to online student portal
+>>>>>>> online
 .........
 login feature
 student can login on the portal 
